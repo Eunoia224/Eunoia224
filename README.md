@@ -11,6 +11,8 @@
 ###
 
 <p align="left">✨ Creating bugs since 2017</p>
+<p align="left">⚡ Interested in AI</p>
+<p align="left">🔨 Willing to break things just to see how they work</p>
 
 ###
 
